@@ -1,0 +1,1 @@
+struct node*create node(int d)
